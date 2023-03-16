@@ -7,7 +7,7 @@ public class SeleniumJavaTest {
 	@Test
 	public void WebBrowser() {
 	
-		System.out.println("WebBrowser -  x of the development team ");
+		System.out.println("WebBrowser");
 		
 	}
 	

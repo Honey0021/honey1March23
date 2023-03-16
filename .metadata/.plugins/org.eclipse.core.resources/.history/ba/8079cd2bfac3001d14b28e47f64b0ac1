@@ -9,7 +9,7 @@ public class RESTAPIAssuredTest {
 	
 		System.out.println("PostJira");
 		
-		System.out.println("changes by x of the development team ");
+		System.out.println("changes by y ");
 		
 	}
 	
